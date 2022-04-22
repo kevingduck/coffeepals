@@ -10,4 +10,4 @@ README.md
 
 [💰 Bounties & TODOs](https://app.dework.xyz/coffeepals/main-project-1945)
 
-Note: development is being done on Rinkeby test network ... it's just Monolopy money at the moment. 
+Note: development is being done on Rinkeby test network ... no real $ is in play at the moment
